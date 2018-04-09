@@ -1,2 +1,3 @@
-# Information-Processing-and-Retrieval
-Information Processing and Retrieval project at IST
+# Projecto Processamento e Recuperação de Informação IST 2017/1028
+
+# FIM
