@@ -1,0 +1,10 @@
+é suposto usar os valores do TFIDF na cosine similarity?
+que valores é que meto nas edges?
+na primeira iteração que valor meto em cada	pagerank (PR)
+	
+
+ex2: 
+quantas iterações?
+o somatório de Pj são todos os PRs excepto Pi?
+o prior é o PR da iteração anterior?
+usar o temario com os titulos ou sem os titulos?
