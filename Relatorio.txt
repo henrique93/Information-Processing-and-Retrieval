@@ -1,0 +1,22 @@
+Exc1:
+In this exercise we use the library sklearn, we start by reading the file, using countVectorizer from sklearn to format the text and to calculate the weights of each word.
+
+resultados!!!!!!!
+
+exc2:
+
+
+resultados!!!!!!!
+exc2-alt:
+
+
+resultados!!!!!!!
+
+exc3:
+
+
+resultados!!!!!!!
+
+exc4:
+To calculate each file’s mmr, we use an array of tuples which contain the sentence’s text, the sentence itself and it’s mmr. 
+resultados!!!!!!!
